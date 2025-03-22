@@ -1,1 +1,1 @@
-# generative_ai
+# Generative AI hands On practice
